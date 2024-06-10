@@ -18,6 +18,7 @@ namespace MasterDetailApp
                 LoadRecord();
             }
         }
+        /// This is a comment
 
         SqlConnection con = new SqlConnection("Data Source=DESKTOP-JRN4S7D;Initial Catalog=MatserDetaildb;Integrated Security=True;Encrypt=False;Application Name=EntityFramework");
 
